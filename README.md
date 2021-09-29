@@ -1,8 +1,6 @@
-# RobotSpareBin intranet robot - starter files
+# Captor
 
-This robot is the starting point of Robocorp's [Beginners' course](https://robocorp.com/docs/courses/beginners-course).
-
-You can also check out the `robotsparebin-complete` robot for the finished version of the robot.
+This robot is the result of Robocorp's [Certificate level II: Build a robot](https://robocorp.com/docs/courses/build-a-robot#robocorp-automation-stack).
 
 Click the link below to get to the code:
 
